@@ -1,3 +1,0 @@
-This is just a test file to check git on local machine
-
-File has changed 
